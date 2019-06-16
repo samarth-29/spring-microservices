@@ -4,6 +4,7 @@
 ## Microservices
 
  - Limits service
+ - Spring cloud config server
 
 ## RESTful web service end-points
 
